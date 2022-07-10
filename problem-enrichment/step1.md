@@ -4,6 +4,7 @@ Create a DT API token with the following permissions:
 
 1. `DataExport` (Access problem and event feed, metrics, and topology)
 2. `WriteConfig` (Write configuration)
+3. 'events.ingest' (Ingest events)
 
 ## Install OneAgent
 Install a Dynatrace OneAgent and set the hostgroup to `at-demo-enrichment`.
